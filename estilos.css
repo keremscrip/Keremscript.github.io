@@ -17,7 +17,7 @@
 
 @keyframes banner {
     0%,20%{
-        background-image: url(programacion.jpg);
+        background-image: url(../programacion.jpg);
     }
     25%,45%{
         background-image: url(../programacion0.jpg);
